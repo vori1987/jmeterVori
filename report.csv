@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2024/05/29 17:33:59,1046,Page number 1 request,200,OK,Thread Group 1-1,text,true,,1898,130,2,2,https://reqres.in/api/users?page=1,1042,0,970
+2024/05/29 17:34:00,212,Page number 1 request,200,OK,Thread Group 1-2,text,true,,1898,130,2,2,https://reqres.in/api/users?page=1,212,0,140
+2024/05/29 17:34:00,93,User number: 2,200,OK,Thread Group 1-1,text,true,,1182,125,2,2,https://reqres.in/api/users/2,93,0,0
+2024/05/29 17:34:00,33,User number: 2,200,OK,Thread Group 1-2,text,true,,1182,125,2,2,https://reqres.in/api/users/2,33,0,0
+2024/05/29 17:34:00,36,Page number 1 request,200,OK,Thread Group 1-1,text,true,,1898,130,2,2,https://reqres.in/api/users?page=1,35,0,0
+2024/05/29 17:34:01,36,User number: 2,200,OK,Thread Group 1-1,text,true,,1182,125,2,2,https://reqres.in/api/users/2,36,0,0
+2024/05/29 17:34:00,40,Page number 1 request,200,OK,Thread Group 1-2,text,true,,1898,130,2,2,https://reqres.in/api/users?page=1,39,0,0
+2024/05/29 17:34:01,32,User number: 2,200,OK,Thread Group 1-2,text,true,,1182,125,1,1,https://reqres.in/api/users/2,32,0,0
